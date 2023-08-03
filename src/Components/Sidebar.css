@@ -1,0 +1,33 @@
+@media (max-width: 767.98px) {
+    .sidebar {
+        display: none;
+    }
+}
+
+.sidebar img {
+    height: 22px;
+    margin-bottom: 10px;
+    display: block;
+    max-width: 100%;
+}
+.main{
+    background: white;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    height: 791px;
+}
+#podcast-content{
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.overlap{
+    top: -150px;
+position: relative;
+left: 30px;
+}

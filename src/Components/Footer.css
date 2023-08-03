@@ -1,0 +1,11 @@
+footer{
+    background: #262626;
+  }
+
+  @media (max-width: 767.98px) {
+    .footer-content .col {
+      flex: 0 0 100%;
+      max-width: 100%;
+      text-align: center;
+    }
+}

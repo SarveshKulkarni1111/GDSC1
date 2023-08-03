@@ -1,0 +1,35 @@
+    .con{
+        padding: 0.5%;
+    }
+
+
+    .container-fluid {
+        display: flex;
+      }
+      
+      .container-fluid hr {
+        flex-grow: 1;
+        border: none;
+        border-top: 2px solid black;
+        margin-right: 10px;
+        margin-top: 100px;
+      }
+      
+      .container-fluid h1 {
+        margin: 0;
+    
+        color: #262626;
+        text-align: right;
+        font-family: Roboto;
+        font-size: 80px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+    
+        display: flex;
+        width: 410px;
+        flex-direction: column;
+        flex-shrink: 0;
+      }
+
+    

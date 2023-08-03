@@ -1,0 +1,68 @@
+.navbar-nav .nav-link:hover {
+    text-decoration: underline;
+}
+.sidebar {
+    
+    background-color: #FFFFFF;
+    padding: 20px;
+}
+
+.sidebar img {
+    height: 20px;
+    margin-bottom: 10px;
+    display: block;
+    max-width: 100%;
+}
+.blue-box-content{
+    background: #4285F4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    width: 95vw;
+}
+.blue-box-content h1{
+    text-align: center;
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    width: 100%;
+}
+
+.blackbox{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: white;
+    overflow-x: hidden;
+}
+.team-content{
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: center;
+
+}
+
+footer{
+    background: #262626;
+}
+@media (max-width: 767.98px) {
+    .footer-content .col {
+      flex: 0 0 100%;
+      max-width: 100%;
+      text-align: center;
+    }
+}
+
+
+
+
+
+
+

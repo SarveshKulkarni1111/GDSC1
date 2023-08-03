@@ -1,0 +1,15 @@
+.main{
+    background: #4285F4;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    height: 791px;
+}
+#podcast-content{
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
